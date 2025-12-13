@@ -1,0 +1,22 @@
+# Core
+python==3.11.0        # or your actual version
+ipykernel==6.29.0
+jupyterlab==4.2.0
+
+# Data handling
+pandas==2.2.0
+numpy==1.26.3
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+
+# Machine learning
+scikit-learn==1.4.0
+
+# Optional (only if you use them)
+tensorflow==2.15.0
+torch==2.1.0
+xgboost==2.0.3
+streamlit==1.30.0
