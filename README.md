@@ -72,7 +72,7 @@ This repository is organized into distinct folders for each task assigned during
 
 1. Clone the repository:
 ```
-git clone https://github.com/ViggiXDevp/PRODIGY_DS_01---05.git
+git clone https://github.com/Your-Username/PRODIGY_DS_01---05.git
 cd PRODIGY_DS_01---05
 ```
 
