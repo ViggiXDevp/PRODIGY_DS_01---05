@@ -14,9 +14,10 @@ This repository is organized into distinct folders for each task assigned during
 ## 📦 Prodigy-InfoTech-DataScience-Internship
 
 ```
-├── Task 1 - [Task Title]
-│ ├── notebook.ipynb
-│ ├── dataset.csv
+├── Task 1 - Distribution Analysis with Bar Charts and Histograms
+│ ├── CrimeData.ipynb
+│ ├── CrimeData.html
+│ ├── Cleaned Crime Data Set.csv
 │ └── README.md
 ├── Task 2 - [Task Title]
 │ ├── notebook.ipynb
@@ -47,7 +48,7 @@ This repository is organized into distinct folders for each task assigned during
 
 | Task No. | Task Title | Description |
 |-----------|-------------|-------------|
-| **1** | [Task Title] | Brief explanation of what was achieved. |
+| **1** | Distribution analysis of data | Visualized crime distributions using bar charts and histograms on the Indian Crimes Dataset from Kaggle |
 | **2** | [Task Title] | Brief explanation of what was achieved. |
 | **3** | [Task Title] | Brief explanation of what was achieved. |
 | **4** | [Task Title] | Brief explanation of what was achieved. |
