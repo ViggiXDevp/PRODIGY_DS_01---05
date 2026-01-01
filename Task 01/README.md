@@ -1,13 +1,13 @@
 # Crime Data Visualization – Task 1 📊
 
 ## Overview 🌐
-Visualized the distribution of crime-related variables using bar charts and/or histograms on the Indian Crimes Dataset from Kaggle.[web:10][web:11]  
-Focused on understanding how crimes are distributed across categories (like gender or city) and continuous features (like age).[web:12]
+Visualized the distribution of crime-related variables using bar charts and/or histograms on the Indian Crimes Dataset from Kaggle.  
+Focused on understanding how crimes are distributed across categories (like gender or city) and continuous features (like age).
 
 ## Dataset 📁
-- **Name:** Indian Crimes Dataset[web:10]  
-- **Source:** Kaggle (`sudhanvahg/indian-crimes-dataset`)[web:10][web:11]  
-- **Example columns:** `city`, `crime_description`, `victim_age`, `victim_gender`, `weapon_used`, `crime_domain`.[web:12]
+- **Name:** Indian Crimes Dataset  
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/sudhanvahg/indian-crimes-dataset)  
+- **Example columns:** `city`, `crime_description`, `victim_age`, `victim_gender`, `weapon_used`, `crime_domain`.
 
 ## What I Implemented ✅
 - Loaded the dataset using `pandas` and inspected basic structure (rows, columns, data types).  
@@ -22,9 +22,5 @@ Focused on understanding how crimes are distributed across categories (like gend
 - **Libraries:** `pandas`, `matplotlib`, `seaborn`  
 - **Environment:** Jupyter Notebook / Google Colab
 
-## How to Run 🚀
-1. Clone this repository and navigate into it.  
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+
 
