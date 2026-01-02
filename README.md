@@ -19,9 +19,9 @@ This repository is organized into distinct folders for each task assigned during
 │ ├── CrimeData.html
 │ ├── Cleaned Crime Data Set.csv
 │ └── README.md
-├── Task 2 - [Task Title]
-│ ├── notebook.ipynb
-│ ├── dataset.csv
+├── Task 2 - Performing data cleaning and EDA
+│ ├── Lung Cancer Prediction.ipynb
+│ ├── Lung Cancer.csv
 │ └── README.md
 ├── Task 3 - [Task Title]
 │ ├── ...
@@ -48,8 +48,8 @@ This repository is organized into distinct folders for each task assigned during
 
 | Task No. | Task Title | Description |
 |-----------|-------------|-------------|
-| **1** | Distribution analysis of data | Visualized crime distributions using bar charts and histograms on the Indian Crimes Dataset from Kaggle |
-| **2** | [Task Title] | Brief explanation of what was achieved. |
+| **1** | Distribution analysis of data | Visualized crime distributions using bar charts and histograms on the Indian Crimes Dataset from Kaggle. |
+| **2** | Performing data cleaning and EDA | Lung Cancer EDA: cleaned data, analyzed symptoms & risk factors vs cancer outcomes. |
 | **3** | [Task Title] | Brief explanation of what was achieved. |
 | **4** | [Task Title] | Brief explanation of what was achieved. |
 | **5** | [Task Title] | Brief explanation of what was achieved. |
