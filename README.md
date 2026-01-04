@@ -23,8 +23,10 @@ This repository is organized into distinct folders for each task assigned during
 │ ├── Lung Cancer Prediction.ipynb
 │ ├── Lung Cancer.csv
 │ └── README.md
-├── Task 3 - [Task Title]
-│ ├── ...
+├── Task 3 - Bank Marketing Decision Tree Classifier
+│ ├── Bank marketing dataset.csv
+│ ├── Decision_Tree_Classifier.ipynb
+│ └── README.md
 ├── Task 4 - [Task Title]
 │ ├── ...
 ├── Task 5 - [Task Title]
@@ -50,7 +52,7 @@ This repository is organized into distinct folders for each task assigned during
 |-----------|-------------|-------------|
 | **1** | Distribution analysis of data | Visualized crime distributions using bar charts and histograms on the Indian Crimes Dataset from Kaggle. |
 | **2** | Performing data cleaning and EDA | Lung Cancer EDA: cleaned data, analyzed symptoms & risk factors vs cancer outcomes. |
-| **3** | [Task Title] | Brief explanation of what was achieved. |
+| **3** | Bank Marketing Decision Tree Classifier | Built a decision tree classifier on Bank Marketing dataset to predict term deposit subscriptions using customer demographics and campaign data. |
 | **4** | [Task Title] | Brief explanation of what was achieved. |
 | **5** | [Task Title] | Brief explanation of what was achieved. |
 
