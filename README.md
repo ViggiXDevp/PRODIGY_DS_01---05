@@ -29,8 +29,9 @@ This repository is organized into distinct folders for each task assigned during
 │ └── README.md
 ├── Task 4 - [Task Title]
 │ ├── ...
-├── Task 5 - [Task Title]
-│ ├── ...
+├── Task 5 - US Traffic Accident Analysis
+│ ├── Accidents data visualisation.ipynb
+│ └── README.md
 └── README.md
 ```
 
@@ -54,7 +55,7 @@ This repository is organized into distinct folders for each task assigned during
 | **2** | Performing data cleaning and EDA | Lung Cancer EDA: cleaned data, analyzed symptoms & risk factors vs cancer outcomes. |
 | **3** | Bank Marketing Decision Tree Classifier | Built a decision tree classifier on Bank Marketing dataset to predict term deposit subscriptions using customer demographics and campaign data. |
 | **4** | [Task Title] | Brief explanation of what was achieved. |
-| **5** | [Task Title] | Brief explanation of what was achieved. |
+| **5** | US Traffic Accident Analysis | Analyzed US Accidents dataset to uncover patterns in road conditions, weather impacts, time-of-day trends, and visualized accident hotspots across 49 states. |
 
 > Each task folder includes Jupyter notebooks and visualizations explaining the workflow, methodology, and insights obtained.
 
